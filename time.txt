@@ -1,5 +1,0 @@
-调用方法 format（time(num),mat(string)）
-time ''YYYY-MM-DD-HH-mm-ss'' return 2018-6-28-10-23-20
-"YYYY.MM.DD.HH:mm:ss" return 2018.6.28.10.23.20
-"MM-DD" 06月28日
-other  2018年06月28日10时23分20秒
